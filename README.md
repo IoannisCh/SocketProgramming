@@ -8,3 +8,5 @@ connect to a Server.
 This repository was used in a Virtual Environment, University lab to simulate 
 data capture with WireShark and further understand computer and network 
 security
+
+Screenshots are not available as they contain sensitive information.
